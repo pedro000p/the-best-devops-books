@@ -66,7 +66,7 @@ Looking for a good read? Explore the books listed below and pick up one of these
   
   * Advanced Bash-Scripting Guide [[Read]](/books/Advanced%20Bash-Scripting%20Guide.pdf)
 
-* Window
+* Windows
 
   * DevOps with Windows Server [[Read]](/books/DevOps%20with%20Windows%20Server%202016.pdf)
   
